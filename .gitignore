@@ -1,0 +1,34 @@
+# JUCE
+/Builds/
+*.jucer
+*.xcodeproj/
+*.sln
+*.vcxproj*
+*.user
+xcuserdata/
+DerivedData/
+
+# CMake
+/build/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Visual Studio
+.vs/
+*.suo
+*.opensdf
+
+# macOS
+.DS_Store
+*.swp
+
+# Rider
+.idea/
+
+# CLion
+.idea/
+cmake-build-*/
