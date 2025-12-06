@@ -1,4 +1,5 @@
 # JUCE
+/JUCE/
 /Builds/
 *.jucer
 *.xcodeproj/
