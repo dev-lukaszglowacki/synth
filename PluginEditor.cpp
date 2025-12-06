@@ -29,8 +29,7 @@ AudioPluginAudioProcessorEditor::AudioPluginAudioProcessorEditor (AudioPluginAud
 }
 
 AudioPluginAudioProcessorEditor::~AudioPluginAudioProcessorEditor()
-{
-}
+= default;
 
 void AudioPluginAudioProcessorEditor::paint (juce::Graphics& g)
 {
